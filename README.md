@@ -34,7 +34,7 @@
 ###
 
 <div align="center">
-  <img height="5" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
+  <img height="100" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
 </div>
 
 ###
@@ -65,6 +65,10 @@
 
 ###
 
+<img align="right" height="120" src="https://media1.tenor.com/m/09iKL0PlMSEAAAAd/kpop-demon-hunters-kpdh.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anallaxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anallaxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -72,9 +76,7 @@
 
 ###
 
-<img align="right" height="120" src="https://media1.tenor.com/m/09iKL0PlMSEAAAAd/kpop-demon-hunters-kpdh.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/anallaxz/anallaxz/output/snake.svg" alt="Snake animation" />
 
