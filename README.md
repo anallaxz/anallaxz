@@ -39,41 +39,9 @@
 
 ###
 
-<h3 align="center">Heyo! I'm Lunna, a Computer Science student!</h3>
-
-###
-
-<p align="left">From a young age, I've always been curious about how things work behind the scenes, and today I'm turning that curiosity into a career in systems development.<br><br>I'm currently learning and deepening my knowledge of HTML, CSS, and JavaScript, exploring how each technology can be used to create functional and beautiful digital experiences. I'm also interested in design, where I enjoy experimenting with Canva and applying visual concepts to make my projects more creative and engaging.<br><br>I enjoy combining technology and creativity because I believe that code doesn't have to be just functional; it can also convey personality. In my free time, I love listening to music, exploring new ideas, and turning my imagination into small projects that help me evolve as a developer.<br><br>My goal is to continue growing in this world of technology, always learning, practicing, and sharing my projects here on GitHub. ✨</p>
-
-###
-
 <div align="center">
-  <img height="100" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
-</div>
-
-###
-
-<h3 align="center">Language and tools</h3>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anallaxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anallaxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anallaxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anallaxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
