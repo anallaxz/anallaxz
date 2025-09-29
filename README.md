@@ -5,17 +5,17 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lunna-souza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/lunna-souza" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/channels/@anallaxz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/lunnasc._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="lunna.devv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:lunna.devv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
@@ -34,14 +34,14 @@
 ###
 
 <div align="center">
-  <img height="100" src="https://media.tenor.com/bJ41RlG_qUQAAAAM/line-purple.gif"  />
+  <img width="90%" src="https://media1.tenor.com/m/17LaV_Nn-pwAAAAd/divider-line.gif" /> 
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anallaxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anallaxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anallaxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&&title_color=E9C0FC&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anallaxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&&title_color=E9C0FC&text_color=FFFFFF&bg_color=0d1117&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
