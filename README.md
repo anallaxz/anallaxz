@@ -8,7 +8,7 @@
   <a href="www.linkedin.com/in/lunna-souza" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/channels/@anallaxz" target="_blank">
+  <a href="https://discord.com/users/402809503017467904" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="https://www.instagram.com/lunnasc._" target="_blank">
