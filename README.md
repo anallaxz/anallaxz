@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.tenor.com/nW_yTOndgdcAAAAi/heart-cat.gif"  />
+  <img height="150" src="https://cdn3.emoji.gg/emojis/80051-cosequences.gif"/>
 </div>
 
 ###
