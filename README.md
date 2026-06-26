@@ -128,7 +128,7 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 ###
 
 <p data-importer="text" align="center">Minha meta é continuar crescendo nesse universo da tecnologia,<br> sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub.✨</p>
-<p data-importer="text" align="center">Recomendo usar o GitHub no modo claro para melhor experiência do README.🍀 </p>
+<p data-importer="text" align="center">Recomendo usar o GitHub no PC em modo claro para melhor experiência do README.🍀 </p>
 
 <br clear="both">
 
