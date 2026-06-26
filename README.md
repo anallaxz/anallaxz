@@ -99,7 +99,7 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 
 ###
 
-<p data-importer="text" align="left">⋆.˚🫟 Arte: Desenhar e pintar são formas de recarregar as energias. <br>ㅤㅤCor: Roxo lavanda é meu xodózinho.<br>ㅤㅤLeitura: Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤCultura: Adoro passeios culturais como museus e exposições.<br>ㅤㅤAnimais: Amo gatos e borboletas!<br>ㅤㅤJogos: Meu jogo favorito é  Until Dawn, e sou entusiasta da teoria do efeito borboleta.<br>ㅤㅤMúsica: Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia. 🪻₊⊹</p>
+<p data-importer="text" align="left">⋆.˚🫟 <b>Arte:</b> Desenhar e pintar são formas de recarregar as energias. <br>ㅤㅤ<b>Cor:</b> Roxo lavanda é meu xodózinho.<br>ㅤㅤ<b>Leitura:</b> Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤ<b>Cultura:</b> Adoro passeios culturais como museus e exposições.<br>ㅤㅤ<b>Animais:</b> Amo gatos e borboletas!<br>ㅤㅤ<b>Jogos:</b> Meu jogo favorito é  Until Dawn, e sou entusiasta da teoria do efeito borboleta.<br>ㅤㅤ<b>Música:</b> Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia. 🪻₊⊹</p>
 
 ###
 
@@ -115,13 +115,13 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 
 <div data-importer="socials" align="center">
   <a href="malito:lunna.devv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/lunna-souza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/402809503017467904" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=discord&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
 </div>
 
