@@ -31,7 +31,7 @@
 
 ###
 
-<p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript, explorando<br> como cada tecnologia pode ser usada para criar experiências digitais funcionais e bonitas. <br>Além disso, tenho interesse na área de design, onde gosto de experimentar no Canva e <br>aplicar conceitos visuais para deixar meus projetos mais criativos e agradáveis.<br>Gosto de unir tecnologia e criatividade, porque acredito que o código não precisa ser só <br>funcional, ele também pode transmitir personalidade.</p>
+<p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript,<br> explorando como cada tecnologia pode ser usada para criar experiências digitais <br>funcionais e bonitas. Além disso, tenho interesse na área de design, onde gosto<br> de experimentar no Canva e aplicar conceitos visuais para deixar meus projetos<br> mais criativos e agradáveis. Gosto de unir tecnologia e criatividade, porque<br> acredito que o código não precisa ser só funcional, ele também pode transmitir<br> personalidade.</p>
 
 ###
 
