@@ -1,47 +1,141 @@
-<div align="center">
-  <img height="150" src="https://cdn3.emoji.gg/emojis/80051-cosequences.gif"/>
+<p data-importer="text" align="left"></p>
+
+###
+
+<br clear="both">
+
+<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/736x/06/b5/aa/06b5aa3733d763b435a5b8e2110c86d5.jpg"  />
+
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<p data-importer="text" align="left">Heyo! Eu sou a Lunna (analla ou ana se preferir!), estudante de Ciência da Computação!<br>Desde cedo sempre tive curiosidade em entender como as coisas funcionam por trás <br>das telas, e hoje estou transformando essa curiosidade em aprendizado na área de <br>desenvolvimento de sistemas.</p>
+
+###
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left"></p>
+
+###
+<br clear="both">
+
+<img data-importer="image" align="right" height="160" src="https://i.pinimg.com/originals/8d/be/96/8dbe966e815f9aa53bd12d9bb640b83c.gif"  />
+
+###
+
+<p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript, explorando<br> como cada tecnologia pode ser usada para criar experiências digitais funcionais e bonitas. <br>Além disso, tenho interesse na área de design, onde gosto de experimentar no Canva e <br>aplicar conceitos visuais para deixar meus projetos mais criativos e agradáveis.<br>Gosto de unir tecnologia e criatividade, porque acredito que o código não precisa ser só <br>funcional, ele também pode transmitir personalidade.</p>
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<h4 data-importer="text" align="center">✦ Experiência de Trabalho ✦</h4>
+
+###
+
+<br clear="both">
+
+[<img align="left" height="94px" width="94px" alt="MPBA" src="https://balcaovirtual.studio365.io/img/mpba.png"/>](https://www.mpba.mp.br)
+
+**Assistente Técnico Administrativo (Estágio)** \
+[**Ministério Publico da Bahia**](https://www.mpba.mp.br) • Meio Período \
+Competências & Ferramentas: `Suporte Técnico`, `Gestão Documental`, `Processos Internos`, `Rotinas Administrativas` \
+Atividades em destaque: Otimização de fluxos de trabalho e colaboração no gerenciamento de processos institucionais.
+<br/>
+
+###
+
+<br clear="both">
+
+<p data-importer="text" align="left"></p>
+
+###
+
+<h4 data-importer="text" align="center">✦ Linguagens & Tecnologias ✦</h4>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="27" alt="c logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="27" alt="css logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="27" alt="canva logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="27" alt="postgresql logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/lunna-souza" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<br clear="both">
+
+<h4 data-importer="text" align="center"></h4>
+
+###
+
+<h4 data-importer="text" align="center">✦ Fun Facts ✦</h4>
+
+###
+
+<img data-importer="image" align="right" height="141" src="https://assets-v2.lottiefiles.com/a/768f5b48-a0dd-11ef-beb9-27c03ddad5a4/7uUzCi04Dk.gif"  />
+
+###
+
+<p data-importer="text" align="left">⋆.˚🫟 Arte: Desenhar e pintar são formas de recarregar as energias. <br>ㅤㅤCor: Roxo lavanda é meu xodózinho.<br>ㅤㅤLeitura: Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤCultura: Adoro passeios culturais como museus e exposições.<br>ㅤㅤAnimais: Amo gatos e borboletas!<br>ㅤㅤJogos: Meu jogo favorito é  Until Dawn, e sou entusiasta da teoria do efeito borboleta.<br>ㅤㅤMúsica: Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia. 🪻₊⊹</p>
+
+###
+
+<h4 data-importer="text" align="center"></h4>
+
+###
+
+<br clear="both">
+
+<h4 data-importer="text" align="center">✦ Vamos conversar ✦</h4>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="malito:lunna.devv@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lunna-souza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
   <a href="https://discord.com/users/402809503017467904" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/lunnasc._" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="mailto:lunna.devv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=0d1117&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=discord&logo=discord&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">hey, you! 😸</h1>
+<p data-importer="text" align="left">Minha meta é continuar crescendo nesse universo da tecnologia, sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub. ✨</p>
+
+<br clear="both">
 
 ###
 
-<h3 align="center">Heyo! Eu sou a Lunna, estudante de Ciência da Computação!</h3>
-
-###
-
-<p align="left">Desde cedo sempre tive curiosidade em entender como as coisas funcionam por trás das telas, e hoje estou transformando essa curiosidade em aprendizado na área de desenvolvimento de sistemas.<br><br>Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript, explorando como cada tecnologia pode ser usada para criar experiências digitais funcionais e bonitas. Além disso, tenho interesse na área de design, onde gosto de experimentar no Canva e aplicar conceitos visuais para deixar meus projetos mais criativos e agradáveis.<br><br>Gosto de unir tecnologia e criatividade, porque acredito que o código não precisa ser só funcional, ele também pode transmitir personalidade. No meu tempo livre, adoro ouvir música, explorar novas ideias e transformar a imaginação em pequenos projetos que me ajudam a evoluir como desenvolvedora.<br><br>Minha meta é continuar crescendo nesse universo da tecnologia, sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub. ✨</p>
-
-###
-
-<div align="center">
-  <img width="90%" src="https://media1.tenor.com/m/17LaV_Nn-pwAAAAd/divider-line.gif" /> 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anallaxz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&&title_color=E9C0FC&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anallaxz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&&title_color=E9C0FC&text_color=FFFFFF&bg_color=0d1117&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/anallaxz/anallaxz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/anallaxz/anallaxz/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
