@@ -52,7 +52,7 @@
 **Assistente Técnico Administrativo (Estágio)** \
 [**Ministério Publico da Bahia**](https://www.mpba.mp.br) • Meio Período \
 Competências & Ferramentas: `Suporte Técnico`, `Gestão Documental`, `Processos Internos`, `Rotinas Administrativas` \
-Atividades em destaque: Otimização de fluxos de trabalho e colaboração no gerenciamento de processos institucionais.
+Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento de processos institucionais.
 <br/>
 
 ###
@@ -128,6 +128,7 @@ Atividades em destaque: Otimização de fluxos de trabalho e colaboração no ge
 ###
 
 <p data-importer="text" align="center">Minha meta é continuar crescendo nesse universo da tecnologia,<br> sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub.✨</p>
+<p data-importer="text" align="center">Recomendo usar o GitHub no modo claro para melhor experiência do README.🍀 </p>
 
 <br clear="both">
 
