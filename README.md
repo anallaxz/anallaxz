@@ -132,10 +132,3 @@ Atividades em destaque: Otimização de fluxos de trabalho e colaboração no ge
 <br clear="both">
 
 ###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/anallaxz/anallaxz/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/anallaxz/anallaxz/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
