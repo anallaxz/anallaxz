@@ -127,7 +127,7 @@ Atividades em destaque: Otimização de fluxos de trabalho e colaboração no ge
 
 ###
 
-<p data-importer="text" align="left">Minha meta é continuar crescendo nesse universo da tecnologia, sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub. ✨</p>
+<p data-importer="text" align="center">Minha meta é continuar crescendo nesse universo da tecnologia,<br> sempre aprendendo, praticando e compartilhando meus projetos aqui no GitHub.✨</p>
 
 <br clear="both">
 
