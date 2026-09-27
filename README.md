@@ -55,6 +55,7 @@
   <img width="5" />
   
 </div>
+<br>
 
 ###
 
@@ -62,8 +63,6 @@
 <h4 data-importer="text" align="center">✦ Experiência de Trabalho ✦</h4>
 
 ###
-
-<br clear="both">
 
 [<img align="left" height="94px" width="94px" alt="MPBA" src="https://balcaovirtual.studio365.io/img/mpba.png"/>](https://www.mpba.mp.br)
 
@@ -81,6 +80,8 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 Competências & Ferramentas: `Cumprimento de Normas`, `Atenção aos Detalhes`, `Protocolos de Segurança`, `Resolução de Problemas` \
 Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a integridade do processo seletivo, a segurança de materiais sigilosos e a correta orientação aos candidatos de acordo com os editais.
 
+<br>
+
 ###
 
 <br>
@@ -91,7 +92,8 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 
 <img data-importer="image" align="right" height="190" src="https://github.com/anallaxz/anallaxz/blob/main/frieren2.jpeg"  />
 
-<p data-importer="text" align="left"> <b>Arte:</b> Desenhar e pintar são formas de recarregar as energias. <br>
+<p data-importer="text" align="left"> 
+<b>Arte:</b> Desenhar e pintar são formas de recarregar as energias.<br>
 ㅤㅤ<b>Cor:</b> Roxo lavanda é meu xodózinho.<br>ㅤㅤ
 <b>Leitura:</b> Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤ
 <b>Cultura:</b> Adoro passeios culturais como museus e exposições.<br>ㅤㅤ
@@ -101,7 +103,7 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 
 ###
 
-<br clear="both">
+<br>
 
 <h4 data-importer="text" align="center">✦ Vamos conversar ✦</h4>
 
