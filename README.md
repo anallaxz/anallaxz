@@ -93,11 +93,11 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 <img data-importer="image" align="right" height="190" src="https://github.com/anallaxz/anallaxz/blob/main/frieren2.jpeg"  />
 
 <p data-importer="text" align="left"> 
-<b>Arte:</b> Desenhar e pintar são formas de recarregar as energias.<br>
+<b>Animais:</b> Amo gatos e borboletas!<br>
 ㅤㅤ<b>Cor:</b> Roxo lavanda é meu xodózinho.<br>ㅤㅤ
 <b>Leitura:</b> Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤ
+<b>Arte:</b> Desenhar e pintar são formas de recarregar as energias.<br>
 <b>Cultura:</b> Adoro passeios culturais como museus e exposições.<br>ㅤㅤ
-<b>Animais:</b> Amo gatos e borboletas!<br>
 ㅤㅤ<b>Jogos:</b> Meu jogo favorito é  Until Dawn, e sou entusiasta da teoria do efeito borboleta.<br>
 ㅤㅤ<b>Música:</b> Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia.</p>
 
