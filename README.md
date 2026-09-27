@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">Heyo! Eu sou a Lunna (analla ou ana se preferir!), estudante de Ciência da <br> Computação!Desde cedo sempre tive curiosidade em entender como as <br> coisas funcionam por trás das telas, e hoje estou transformando essa curiosidade em aprendizado na área de desenvolvimento de sistemas.</p>
+<p data-importer="text" align="left">Heyo! Eu sou a Lunna (analla ou ana se preferir!), estudante de Ciência da <br> Computação!Desde cedo sempre tive curiosidade em entender como as <br> coisas funcionam por trás das telas, e hoje estou transformando <br> essa curiosidade em aprendizado na área de desenvolvimento de sistemas.</p>
 
 <p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript,<br> explorando como cada tecnologia pode ser usada para criar experiências digitais <br>funcionais e bonitas. Além disso, tenho interesse na área de design, onde gosto<br> de experimentar no Canva e aplicar conceitos visuais para deixar meus projetos<br> mais criativos e agradáveis. Gosto de unir tecnologia e criatividade, porque<br> acredito que o código não precisa ser só funcional, ele também pode transmitir<br> personalidade.</p>
 
