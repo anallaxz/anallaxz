@@ -118,7 +118,7 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
     <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="LinkedIn logo"  />
     </a>
     
-  <a href="https://instagram/users/anallaxz" target="_blank">
+  <a href="https://www.instagram.com/anallaxz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
 </div>
