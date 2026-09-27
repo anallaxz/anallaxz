@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="200" src="https://i.pinimg.com/736x/06/b5/aa/06b5aa3733d763b435a5b8e2110c86d5.jpg"  />
+<img data-importer="image" align="left" height="450" src="https://github.com/anallaxz/anallaxz/blob/main/frieren.jpeg"  />
 
 ###
 
@@ -14,46 +14,11 @@
 
 <p data-importer="text" align="left">Heyo! Eu sou a Lunna (analla ou ana se preferir!), estudante de Ciência da Computação!<br>Desde cedo sempre tive curiosidade em entender como as coisas funcionam por trás <br>das telas, e hoje estou transformando essa curiosidade em aprendizado na área de <br>desenvolvimento de sistemas.</p>
 
-###
-
-<p data-importer="text" align="left"></p>
-
-###
-
-<br clear="both">
-
-<p data-importer="text" align="left"></p>
-
-###
-<br clear="both">
-
-<img data-importer="image" align="right" height="160" src="https://i.pinimg.com/originals/8d/be/96/8dbe966e815f9aa53bd12d9bb640b83c.gif"  />
-
-###
-
 <p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript,<br> explorando como cada tecnologia pode ser usada para criar experiências digitais <br>funcionais e bonitas. Além disso, tenho interesse na área de design, onde gosto<br> de experimentar no Canva e aplicar conceitos visuais para deixar meus projetos<br> mais criativos e agradáveis. Gosto de unir tecnologia e criatividade, porque<br> acredito que o código não precisa ser só funcional, ele também pode transmitir<br> personalidade.</p>
 
 ###
 
-<br clear="both">
-
 <p data-importer="text" align="left"></p>
-
-###
-
-<h4 data-importer="text" align="center">✦ Experiência de Trabalho ✦</h4>
-
-###
-
-<br clear="both">
-
-[<img align="left" height="94px" width="94px" alt="MPBA" src="https://balcaovirtual.studio365.io/img/mpba.png"/>](https://www.mpba.mp.br)
-
-**Assistente Técnico Administrativo (Estágio)** \
-[**Ministério Publico da Bahia**](https://www.mpba.mp.br) • Meio Período \
-Competências & Ferramentas: `Suporte Técnico`, `Gestão Documental`, `Processos Internos`, `Rotinas Administrativas` \
-Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento de processos institucionais.
-<br/>
 
 ###
 
@@ -68,42 +33,71 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="27" alt="c logo"  />
+  
+  <img src="https://img.shields.io/badge/HTML5-ffffff?logo=html5&logoColor=black&style=for-the-badge" height="27" alt="html5 logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="27" alt="html5 logo"  />
+  <img src="https://img.shields.io/badge/CSS3-ffffff?logo=css&logoColor=black&style=for-the-badge" height="27" alt="css logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="27" alt="css logo"  />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="27" alt="javascript logo"  />
+  <img src="https://img.shields.io/badge/MySQL-ffffff?logo=mysql&logoColor=black&style=for-the-badge" height="27" alt="mysql logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="27" alt="canva logo"  />
+  <img src="https://img.shields.io/badge/PostgreSQL-ffffff?logo=postgresql&logoColor=black&style=for-the-badge" height="27" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/Figma-ffffff?logo=figma&logoColor=black&style=for-the-badge" height="27" alt="figma logo"  />
+  
+<br>
+  <img src="https://img.shields.io/badge/Python-ffffff?logo=python&logoColor=black&style=for-the-badge" height="27" alt="python logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="27" alt="mysql logo"  />
+  <img src="https://img.shields.io/badge/C-ffffff?logo=c&logoColor=black&style=for-the-badge" height="27" alt="c logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="27" alt="postgresql logo"  />
+  <img src="https://img.shields.io/badge/Java-ffffff?logo=java&logoColor=black&style=for-the-badge" height="27" alt="java logo"  />
+  <img src="https://img.shields.io/badge/Canva-ffffff?logo=canva&logoColor=black&style=for-the-badge" height="27" alt="canva logo"  />
+  <img width="5" />
+  
 </div>
+
+###
+
+<br>
+<h4 data-importer="text" align="center">✦ Experiência de Trabalho ✦</h4>
 
 ###
 
 <br clear="both">
 
-<h4 data-importer="text" align="center"></h4>
+[<img align="left" height="94px" width="94px" alt="MPBA" src="https://balcaovirtual.studio365.io/img/mpba.png"/>](https://www.mpba.mp.br)
+
+**Assistente Técnico Administrativo (Estágio)** \
+[**Ministério Publico da Bahia**](https://www.mpba.mp.br) • Meio Período \
+Competências & Ferramentas: `Suporte Técnico`, `Gestão Documental`, `Processos Internos`, `Rotinas Administrativas` \
+Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento de processos institucionais.
+
+<br>
+
+[<img align="left" height="94px" width="94px" alt="MPBA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCrcm849RbUSvmtqSxTW6P9Dq7Fk8TUsUc7naclnjvQ&s=10"/>](https://www.cebraspe.org.br)
+
+**Fiscal de Exames e Vestibulares (Freelancer)** \
+[**Cebraspe (e outras bancas)**](https://www.cebraspe.org.br) • Sob Demanda \
+Competências & Ferramentas: `Cumprimento de Normas`, `Atenção aos Detalhes`, `Protocolos de Segurança`, `Resolução de Problemas` \
+Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a integridade do processo seletivo, a segurança de materiais sigilosos e a correta orientação aos candidatos de acordo com os editais.
 
 ###
+
+<br>
 
 <h4 data-importer="text" align="center">✦ Fun Facts ✦</h4>
 
 ###
 
-<img data-importer="image" align="right" height="141" src="https://assets-v2.lottiefiles.com/a/768f5b48-a0dd-11ef-beb9-27c03ddad5a4/7uUzCi04Dk.gif"  />
+<img data-importer="image" align="right" height="190" src="https://github.com/anallaxz/anallaxz/blob/main/frieren2.jpeg"  />
 
-###
-
-<p data-importer="text" align="left">⋆.˚🫟 <b>Arte:</b> Desenhar e pintar são formas de recarregar as energias. <br>ㅤㅤ<b>Cor:</b> Roxo lavanda é meu xodózinho.<br>ㅤㅤ<b>Leitura:</b> Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤ<b>Cultura:</b> Adoro passeios culturais como museus e exposições.<br>ㅤㅤ<b>Animais:</b> Amo gatos e borboletas!<br>ㅤㅤ<b>Jogos:</b> Meu jogo favorito é  Until Dawn, e sou entusiasta da teoria do efeito borboleta.<br>ㅤㅤ<b>Música:</b> Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia. 🪻₊⊹</p>
-
-###
-
-<h4 data-importer="text" align="center"></h4>
+<p data-importer="text" align="left"> <b>Arte:</b> Desenhar e pintar são formas de recarregar as energias. <br>
+ㅤㅤ<b>Cor:</b> Roxo lavanda é meu xodózinho.<br>ㅤㅤ
+<b>Leitura:</b> Gosto bastante de ler gêneros de fantasia.<br>ㅤㅤ
+<b>Cultura:</b> Adoro passeios culturais como museus e exposições.<br>ㅤㅤ
+<b>Animais:</b> Amo gatos e borboletas!<br>
+ㅤㅤ<b>Jogos:</b> Meu jogo favorito é  Until Dawn, e sou entusiasta da teoria do efeito borboleta.<br>
+ㅤㅤ<b>Música:</b> Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia.</p>
 
 ###
 
@@ -115,13 +109,15 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 
 <div data-importer="socials" align="center">
   <a href="malito:lunna.devv@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="gmail logo"  /> 
   </a>
+  
   <a href="https://www.linkedin.com/in/lunna-souza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/402809503017467904" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=discord&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="LinkedIn logo"  />
+    </a>
+    
+  <a href="https://instagram/users/anallaxz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=instagram&logo=instagram&label=&color=ffffff&logoColor=black&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
 </div>
 
