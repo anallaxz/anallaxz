@@ -79,7 +79,7 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 
 **Fiscal de Exames e Vestibulares (Freelancer)** \
 [**Cebraspe (e outras bancas)**](https://www.cebraspe.org.br) • Sob Demanda \
-Competências & Ferramentas: `Cumprimento de Normas`, `Atenção aos Detalhes`, `Protocolos de Segurança`, `Resolução de Problemas` \
+Competências & Ferramentas: `Cumprimento de Normas`, `Protocolos de Segurança`, `Resolução de Problemas` \
 Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a integridade do processo seletivo, a segurança de materiais sigilosos e a correta orientação aos candidatos de acordo com os editais.
 
 <br>
