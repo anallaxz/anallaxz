@@ -16,6 +16,8 @@
 
 <p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e JavaScript,<br> explorando como cada tecnologia pode ser usada para criar experiências digitais <br>funcionais e bonitas. Além disso, tenho interesse na área de design, onde gosto<br> de experimentar no Canva e aplicar conceitos visuais para deixar meus projetos<br> mais criativos e agradáveis. Gosto de unir tecnologia e criatividade, porque<br> acredito que o código não precisa ser só funcional, ele também pode transmitir<br> personalidade.</p>
 
+<p data-importer="text" align="left">Além dos meus estudos, estou empolgada em me aprofundar mais em frameworks <br> de desenvolvimento web modernos e em como os princípios de UX/UI podem elevar <br> a experiência do usuário. Tenho planos de criar pequenos projetos open-source para <br> contribuir com a comunidade e, quem sabe, até mesmo começar a compartilhar meus aprendizados e insights de design e código através de um blog ou canal de tutoriais.
+
 ###
 
 <p data-importer="text" align="left"></p>
