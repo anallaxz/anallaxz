@@ -75,12 +75,12 @@ Atividades: Otimização de fluxos de trabalho e colaboração no gerenciamento 
 
 <br>
 
-[<img align="left" height="94px" width="94px" alt="MPBA" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCrcm849RbUSvmtqSxTW6P9Dq7Fk8TUsUc7naclnjvQ&s=10"/>](https://www.cebraspe.org.br)
+[<img align="left" height="100px" width="100px" alt="CEBRASPE" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvCrcm849RbUSvmtqSxTW6P9Dq7Fk8TUsUc7naclnjvQ&s=10"/>](https://www.cebraspe.org.br)
 
 **Fiscal de Exames e Vestibulares (Freelancer)** \
 [**Cebraspe (e outras bancas)**](https://www.cebraspe.org.br) • Sob Demanda \
 Competências & Ferramentas: `Cumprimento de Normas`, `Protocolos de Segurança`, `Resolução de Problemas` \
-Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a integridade do processo seletivo, a segurança de materiais sigilosos e a correta orientação aos candidatos de acordo com os editais.
+Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a integridade do processo seletivo, e segurança de materiais.
 
 <br>
 
