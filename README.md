@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img data-importer="image" align="left" height="450" src="https://github.com/anallaxz/anallaxz/blob/main/frieren.jpeg"  />
+<img data-importer="image" align="left" height="600" src="https://github.com/anallaxz/anallaxz/blob/main/lucynda2.jpg"  />
 
 ###
 
@@ -27,6 +27,10 @@
 <br clear="both">
 
 <p data-importer="text" align="left"></p>
+
+###
+
+<br clear="both">
 
 ###
 
