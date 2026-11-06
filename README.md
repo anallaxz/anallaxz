@@ -89,14 +89,13 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 <br>
 
 ###
-<img align="right" height="300" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/lucynda3.jpg" alt="Frieren" />
+<img align="right" height="300" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/lucynda4.jpg" alt="Frieren" />
+
 <br>
 
-<h4 data-importer="text" align="center">✦ Fun Facts ✦</h4>
+<h4 data-importer="text" align="center" &ensp;>✦  Fun Facts ✦</h4>
 
 ###
-
-
 
 <p align="left">
 <b>Animais:</b> Amo gatos e borboletas!<br>
@@ -108,6 +107,11 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 
 ###
 
+
+
+###
+
+<br>
 <br>
 
 <h4 data-importer="text" align="center">✦ Vamos conversar ✦</h4>
