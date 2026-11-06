@@ -91,8 +91,8 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 ###
 
 <h4 data-importer="text" align="center" &ensp;>✦  Fun Facts ✦</h4>
-<img align="right" height="300" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/lucynda4.jpg" alt="Frieren" />
-<img align="left" height="200" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/branco.png" alt="Frieren" />
+<img align="right" height="270" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/lucynda4.jpg" alt="lucynda" />
+<img align="left" height="200" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/branco.png" alt="branco" />
 <br>
 
 
