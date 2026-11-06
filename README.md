@@ -12,11 +12,11 @@
 
 ###
 
-<p data-importer="text" align="left">Heyo! Eu sou a Lunna (anallaxz ou ana se preferir!), estudante de Ciência da <br> Computação! Desde cedo sempre tive curiosidade em entender como as <br> coisas funcionam por trás das telas, e hoje estou transformando essa <br> curiosidade em aprendizado na área de desenvolvimento de sistemas.</p>
+<p data-importer="text" align="left">Heyo! Eu sou a Lunna (anallaxz ou ana se preferir!), estudante de Ciência<br> da  Computação! Desde cedo sempre tive curiosidade em entender como<br> as coisas funcionam por trás das telas, e hoje estou transformando essa <br> curiosidade em aprendizado na área de desenvolvimento de sistemas.</p>
 
 <p data-importer="text" align="left">Atualmente, estou aprendendo e me aprofundando em HTML, CSS e <br> JavaScript, explorando como cada tecnologia pode ser usada para criar <br> experiências digitais funcionais e bonitas. Além disso, tenho interesse<br> na área de design, onde gosto de experimentar no Canva e aplicar<br> conceitos visuais para deixar meus projetos mais criativos e agradáveis.<br> Gosto de unir tecnologia e criatividade, porque acredito que o código<br> não precisa ser só funcional, ele também pode transmitir personalidade.</p>
 
-<p data-importer="text" align="left">Além dos meus estudos, estou empolgada em me aprofundar mais em frameworks <br> de desenvolvimento web modernos e em como os princípios de UX/UI podem elevar <br> a experiência do usuário. Tenho planos de criar pequenos projetos open-source para <br> contribuir com a comunidade e, quem sabe, até mesmo começar a compartilhar meus aprendizados e insights de design e código através de um blog ou canal de tutoriais.
+<p data-importer="text" align="left">Além dos meus estudos, estou empolgada em me aprofundar mais em <br> frameworks de desenvolvimento web modernos e em como os princípios <br> de UX/UI podem elevar a experiência do usuário. Tenho planos de criar <br> pequenos projetos open-source para contribuir com a comunidade e, <br> quem sabe, até mesmo começar a compartilhar meus aprendizados e<br> insights de design e código através de um blog ou canal de tutoriais.
 
 ###
 
