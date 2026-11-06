@@ -89,11 +89,13 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 <br>
 
 ###
-<img align="right" height="300" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/lucynda4.jpg" alt="Frieren" />
-<img align="left" height="300" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/branco.png" alt="Frieren" />
-<br>
 
 <h4 data-importer="text" align="center" &ensp;>✦  Fun Facts ✦</h4>
+<img align="right" height="300" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/lucynda4.jpg" alt="Frieren" />
+<img align="left" height="200" src="https://raw.githubusercontent.com/anallaxz/anallaxz/main/branco.png" alt="Frieren" />
+<br>
+
+
 
 ###
 
@@ -105,9 +107,7 @@ Atividades: Coordenação do ambiente de provas e vestibulares, garantindo a int
 <b>Música:</b> Passo a maior parte do tempo escutando músicas, isso é meio que uma terapia.
 </p>
 
-###
-
-
+<br>
 
 ###
 
